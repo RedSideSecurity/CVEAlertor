@@ -1,0 +1,5 @@
+config.json
+state/
+cvealertor.log
+__pycache__/
+*.pyc
