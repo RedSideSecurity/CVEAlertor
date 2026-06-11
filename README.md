@@ -260,6 +260,12 @@ Apache Log4j remote code execution
 CVE: https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 ```
 
+…and how it actually lands in Telegram:
+
+<p align="center">
+  <img src="assets/poc.png" alt="CVEAlertor Telegram alert for a new public PoC on a tracked CVE" width="600">
+</p>
+
 ---
 
 ## Roadmap
